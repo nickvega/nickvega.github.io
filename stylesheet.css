@@ -1,0 +1,16 @@
+body {
+  background-image:
+  url(http://storycode.com/wp-content/uploads/2015/05/HTML5_de_Erick_Dimas.jpg);
+}
+
+ ul {
+   list-style-type:
+   margin: 20;
+   padding: 10;
+ }
+#header {
+background-color:#FF0000;
+padding:10px;
+margin:5px;
+display: inline-block;
+}
